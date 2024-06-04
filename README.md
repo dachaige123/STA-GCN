@@ -1,2 +1,2 @@
-# STA-GCN
-Relevant structures of STA-GCN model and experimental data are included in this project
+# STS-GCN
+Relevant structures of STS-GCN model and experimental data are included in this project
